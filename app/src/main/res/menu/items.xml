@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_led"
+        android:icon="@drawable/led"
+        android:title="LED"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_pump"
+        android:icon="@drawable/pump"
+        android:title="pump"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/settings"
+        android:title="refresh"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@drawable/refresh"
+        android:title="refresh"
+        app:showAsAction="always"/>
+</menu>
